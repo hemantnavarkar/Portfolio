@@ -1,0 +1,43 @@
+import './App.css'
+
+function App() {
+  return (
+    <section>
+      <h2>
+        <h1>Hemant Navarkar </h1>
+        <p id="para-margin">hemantnavarkar@gmail.com <br /> +91 8087875656</p>
+        <h4>Summary </h4>
+      </h2>
+      <p>
+        <b>Hemant Navarkar</b> is an IT Professional with 12+ years of experience. Hemant Navarkar is Full Stack
+        Developer and Cloud Architect skilled in designing, developing windows/web applications using C#, WinForms, WPF,
+        ASP .NET Core, Angular9, TypeScript, SQL Server, PostgreSQL, MySQL, Snowflake SQL, Database management,
+        Algorithms and deployment of web application on Microsoft Azure.
+        Hemant Navarkar has completed his Master of Computer Science from the Pune Institute of Technology and is also
+        certified Professional Scrum Master from Scrum.org.
+      </p>
+      <h4>
+        <h2> Experience Profile</h2>
+        <ul>
+          <li>Experience in developing desktop applications Winform, WPF.</li>
+          <li>Experience in developing backend for web applications using ASP .Net Core web API, Entity framework</li>
+          <li>Experience in front end technology NodeJS, Typescript, CSS, HTML, JavaScript</li>
+          <li>Experience in database administration using MySQL, Postgres, Microsoft SQL Server, Snowflake SQL</li>
+          <li>Experience in implementing solutions using design patterns and principles.</li>
+          <li>Experience in Powershell scripting.</li>
+          <li>
+            Experience in core Azure services such as Azure Active Directory B2C, Azure Functions, Azure App
+            Services, and Azure Key Vault.
+          </li>
+          <li>Experience in managing, mentoring, and leading development teams using dev ops</li>
+        </ul>
+        <h4>
+          <h2>Technical skills</h2>
+          <p>Contact me <a href="./Public/contact.html">here!</a></p>
+        </h4>
+      </h4>
+    </section>
+  )
+}
+
+export default App
